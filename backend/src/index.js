@@ -31,9 +31,4 @@ app.use(routes);
   * Request body: Corpo da requisição, utilizado para criar ou alterar recursos 
   */
 
-  /**
-   * Existem dos tipos de conexão:
-   * Driver: SELECT * FROM user
-   * Query Builder: table('users').select('*').where()
-   */
 app.listen(3334);
