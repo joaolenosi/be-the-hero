@@ -9,19 +9,11 @@ const app = express();
 
 //Faz com que apenas um deterinado domínio possa usar nossa api
 app.use(cors());
-
 //Informa que nossas requisições o seu corpo deve ser convertido para json
 app.use(express.json());
 //Faz uso das rotas que foram criadas no outro arquivo.
 app.use(routes);
 
-
-//Criando uma rota, como não tem o nome da página então só coloca uma barra, para informar que é 
-//uma rota raiz. E o segundo parâmetro é uma função arrow que obrigatoriamente possui dois parâmetros
-//O primeiro é a requisição e o segundo é a resposta. E na resposta foi retornado uma mensagem.
-//Podemos retonar um JSON também
-
-//O que vêm depois da barra é chamado de recurso e geralmente está associado a uma tabela.
 /**
  * Métodos HTTP:
  * 
@@ -44,8 +36,4 @@ app.use(routes);
    * Driver: SELECT * FROM user
    * Query Builder: table('users').select('*').where()
    */
-
-
-
-//Ficou ouvindo a porta
 app.listen(3334);
