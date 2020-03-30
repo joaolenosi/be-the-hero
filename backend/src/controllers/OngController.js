@@ -1,13 +1,13 @@
+//Importando biblíoteca de criptografia
 const crypto   = require('crypto');
-//Desacomplando o módulo routes do express
 const connection = require('../database/connection');
 
 //Os métodos que serão exportados deverão ser separados por vírgula
 module.exports = {
 
-    //Lista os dados da tabela, o nome do método é index;
+    //Lista os dados da tabela
     async index(request, response){
-        const  ongs = await connection('ongs').select('*');//SELECT 
+        const  ongs = await connection('ongs').select('*');//SELECT * FROM ongs 
           return response.json(ongs);
     },
 
