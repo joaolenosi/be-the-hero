@@ -1,5 +1,6 @@
 /**
  * Arquivo responsável pela as informações da ONG logada, deve ser enviada no cabeçalho da requisição.
+ * Os SELECTS e INSERTS foram realizados com Query Builder.
  * Author: João Leno
  * Data: 30/03/2020
  */
