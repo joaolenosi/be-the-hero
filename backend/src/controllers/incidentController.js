@@ -33,8 +33,8 @@ module.exports = {
                                     'incidents.*', 'ongs.name', 'ongs.email',
                                     'ongs.whatsapp', 'ongs.city', 'ongs.uf'
                                  ])
-        //Envia no cabeçalho da resposta a quantidade de registros
-        response.header('X-Tota-Count', count['count(*)']);
+        //Envia no cabeçalho da resposta a quantidade de registros retornados no select acima.
+        response.header('x-total-count', count['count(*)']);
 
         return response.json(incidents);
     },

@@ -1,0 +1,114 @@
+https://www.youtube.com/watch?v=Lcwxvda3rOA
+https://github.com/NadiaaOliverr/Semana-Omnistack-8.0
+https://uptobox.com/b5zmdg0au31i
+
+https://www.themega.net/semana-omnistack-8-0/
+DOCUMENTAÇÃO
+https://reactnative.dev/docs/statusbar.html
+tutorial:
+https://reactnativemaster.com/react-native-notification-bar-example/
+https://snack.expo.io/@unbanked/statusbar-example
+
+-- Instalando o expo
+npm install -g expo-cli
+
+-- Verifica se o expo foi instalado.
+expo -h
+
+-- Criando um projeto com o expo
+expo init mobile
+
+-- Selecione a opção:
+expo-template-blank
+
+--Executar o projeto
+yarn start
+
+-- Para realizar as rotas no react native, é necessário instalar esse pacote de navegação.
+npm install @react-navigation/native
+
+-- Após instalar react navigation é necessário executá-lo. https://reactnavigation.org/docs/getting-started
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+-- Após isso, vamos instalar mais um pacote de navegação simples, que permite navegar através de botões
+npm install @react-navigation/stack
+
+-- Pacote que possui várias constanstes pré-definidas, como por exemplo: Altura da status bar
+expo install expo-constants
+
+-- Pacote para abrir um e-mail por cima da tela do aplicativo.
+-- Documentação: https://docs.expo.io/versions/latest/sdk/mail-composer/#mailcomposercomposeasyncoptions
+expo install expo-mail-composer
+
+-- Instala novamente o axios, componente client HTTP
+npm install axios
+
+-- Se ocorrer esse erro: Cannot find module '@babel/helper-plugin-utils', execute o comando abaixo
+
+-- 1 - Utilitários do Babel: https://www.npmjs.com/package/@babel/helper-plugin-utils
+npm install --save-dev @babel/helper-plugin-utils
+
+-- 2 Se o error persistir.
+yarn add @babel/helper-plugin-utils --dev
+
+-- Se ainda der erro execute:
+ npm install @babel/runtime@latest
+
+Bibliota da classe js para formatar valores.
+-- npm install intl
+
+****************************************************************
+ATENÇÃO: Se ocorrer esse erro, cheque se você não tem nenhum pacote faltando instalar.
+No meu caso o problema estava nesses dois pacotes que foram importados; Aí comente e voltou a funcionar normalmente.
+Aparentemente essa classe é só para android
+//import 'intl';
+//import 'intl/locale-data/jsonp/pt-BR';
+possible unhandled promise rejection (id 0)
+****************************************************************
+
+
+
+   {/*Renomeia o nome da variavel item para incidents, para facilitar a referenciação dos dados. por exemplo: {incident.name} retorna o nome name, title e value são campos da minha tabela incidents.*/} 
+
+https://github.com/ialexanderbrito/be-the-hero
+
+
+
+
+
+https://github.com/ialexanderbrito/be-the-hero/find/master
+https://blog.geekhunter.com.br/um-guia-completo-de-react-native/
+http://localhost:3000/
+http://localhost:3334/ongs
+
+
+
+http://10.0.0.102:3334/incidents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#e02041',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  title:{
+    fontSize: 50,
+    color: '#FFF',
+
+  }
+});
