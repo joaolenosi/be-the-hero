@@ -34,7 +34,7 @@ module.exports = {
                                     'ongs.whatsapp', 'ongs.city', 'ongs.uf'
                                  ])
         //Envia no cabeçalho da resposta a quantidade de registros
-        response.header('X-Tota-Count', count['count(*)']);
+        response.header('x-total-count', count['count(*)']);
 
         return response.json(incidents);
     },
