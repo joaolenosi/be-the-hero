@@ -74,5 +74,9 @@ export default StyleSheet.create({
         color: '#FFF',
         fontSize: 15,
         fontWeight: 'bold',
-    },     
+    },  
+    
+    teste:{
+        height:50,
+    }
 });

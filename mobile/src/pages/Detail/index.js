@@ -53,7 +53,7 @@ export default function Detail(){
                 </TouchableOpacity>
 
                 <TouchableOpacity onPress={(navigateBack)}>
-                    <Feather name="arrow-left" size={20} color="#E02041" />
+                    <Feather name="arrow-left" size={20} style={styles.teste}  color="#E02041" />
                 </TouchableOpacity>
             </View>
 

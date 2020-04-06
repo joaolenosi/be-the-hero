@@ -1,7 +1,17 @@
+/**
+* Package: Express
+* Describe: O Express.js é um framework Node, ele cria abstrações de rotas, middlewares
+* e muitas outras funções para facilitar a criação tanto de API's quanto SPA's.
+* Um exemplo bacana de uso dele é a exposição de uma API simples de get que pode ser feita rapidamente.
+* Author: João Leno
+* Data: 06/04/2020
+*/
 //importando o módulo express
 const express = require('express');
 //Importando o módulo de segurança
 const cors   = require('cors');
+//Importando o arquivo de validação de campos.
+const {errors} = require('celebrate');
 //Como esse arquivo routes foi eu que criei, é necessário colocar o ./ para dizer que está na mesma pasta.
 const routes  = require('./routes');
 //Criou o app
@@ -14,6 +24,8 @@ app.use(cors());
 app.use(express.json());
 //Faz uso das rotas que foram criadas no outro arquivo.
 app.use(routes);
+//Exibe uma mensagem amigável a nível de inspector, quando falhar em alguma validação.
+app.use(errors());
 
 
 //Criando uma rota, como não tem o nome da página então só coloca uma barra, para informar que é 
@@ -45,7 +57,4 @@ app.use(routes);
    * Query Builder: table('users').select('*').where()
    */
 
-
-
-//Ficou ouvindo a porta
-app.listen(3334);
+module.exports = app;

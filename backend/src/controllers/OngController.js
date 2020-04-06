@@ -8,7 +8,10 @@
 * Author: João Leno
 * Data: 30/03/2020
 */
-const crypto   = require('crypto');
+
+//Importa o arquivo para geração de um ID único. Semelhante a um MD5
+const generateUniqueId = require('../utils/generateUniqueId');
+
 const connection = require('../database/connection');
 //Os métodos que serão exportados deverão ser separados por vírgula
 module.exports = {
@@ -26,7 +29,7 @@ module.exports = {
         const {name, email, whatsapp, city, uf} = request.body;
 
         //Cria um id com 4 bytes aleatórios e converte para hexadecimal
-        const id = crypto.randomBytes(4).toString('HEX');
+        const id = generateUniqueId(); 
         //Para inserir um dado, passa a instância da conexão, o nome da tabela e os atributos que serão inseridos.
         //Como o insert pode demorar um pouco e eu preciso retornar que essa ong foi inserida
         //Após executar o insert, se houver erro:"SQLITE_ERROR: no such table: ongs", delete o banco manualmente e execute novamente o comando: npx knex migrate:latest para ele recriar todas as tabelas

@@ -1,0 +1,53 @@
+-- Pacote para fazer validação.
+npm install celebrate
+
+-- Pacote para realizar testes na aplicação backend;
+npm install jest
+
+-- Para iniciar os testes
+npx jest --init
+
+-- Adicionar o teste ao package.json
+Y
+
+-- Executar no node
+Enter
+
+-- Cover reports
+N
+
+- Clear mock calls 
+
+
+-- Para executar um teste
+npm test
+
+
+Did you mean one of these?
+
+-- Pacote para poder criar variáveis de ambiente e poder setar o banco de dados.
+npm install cross-env
+
+-- Pacote para realizar requisições HTTP de teste. O -D significa que é uma dependência apenas de teste.
+npm install supertest -D
+
+-- Para hospedar o backend de uma aplicação pequena.
+https://signup.heroku.com/
+
+-- Para hospedar o backend de uma aplicação maior.
+https://www.digitalocean.com/pricing/ 	
+  	
+-- Para aplicações gigantes
+Aws amazon
+Microsoft wase
+https://console.cloud.google.com/freetrial/signup/tos?pli=1
+
+-- Para frontend, temos o netlify
+https://www.netlify.com/
+
+****************************************
+o que estudar daqui para frente:
+
+Padrões de código: Eslint, Prettier
+Autenticação JWT
+Styled Components
