@@ -26,6 +26,16 @@ O frontend foi desenvolvido utilizando o React usando a arquitetura SPA, em conj
 
 # <h2> Detalhes do mobile
 O App foi desenvolvido utilizando o Expo e o React Native em conjunto com o pacote axios responsável por permitir a criação de requisições http ao backend. O aplicativo permitie a interação do usuário de forma direta com as ONG´s atavés do whats app usando o deep link para abertura do app, ou envio de e-mail utilizando o pacote expo-mail-composer.
+ 
+# <h2> Requisitos 
+* A ONG poderá efetuar login na aplicação web.
+* A ONG poderá efetuar cadastro na aplicação web.
+* A ONG poderá realizar logoff.
+* A ONG deverá cadastrar os Casos, informando título, uma descrição dos fatos e o valor.
+* A ONG deverá disponibilizar o seu contato através de e-mail ou whatsapp.
+* O Usuário poderá ver todos os casos que precisam de ajuda.
+* O Usuário poderá entrar em contato com a ONG, através do whastapp ou e-mail.
+  
 
 # <h2> Sobre o autor
 Olá, meu nome é: João leno, sou formado em Sistemas de Informação pela a Faculdade de Ciências e Tecnologia Mater Christi. Apaixonado por tecnologia e adoro desafios. Atualmente trabalho com desenvolvimento de software para automação comercial e aplicações web. Já programei em diversas linguagens de programaçao, entre elas: Java / Android, Object Pascal (Delphi), PHP, Javascript, Python e C.
