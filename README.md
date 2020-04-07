@@ -49,15 +49,11 @@ Já trabalhei com os seguintes SGBD´s: SQL Server, Postgres, Oracle, Interbase,
 
 No momento estou aprendendo Node.js, React e React Native e esse é o meu primeiro projeto utilizando essa stack. Caso queiram entrar em contato: joaolenosi@gmail.com
 
-![1]()
-![2]()
-![3]()
-
 ## Frontend
 <img src="https://user-images.githubusercontent.com/13546199/78726404-49053a00-7908-11ea-9108-3eaa5bfcdd9f.png" height="400em"/>
 <img src="https://user-images.githubusercontent.com/13546199/78726407-499dd080-7908-11ea-9b28-cf1ff744fb18.png" height="400em"/>
 <img src="https://user-images.githubusercontent.com/13546199/78726408-4a366700-7908-11ea-95a5-3d067304b502.png" height="400em"/>
 
 ## Mobile
-<img src="https://user-images.githubusercontent.com/13546199/78726041-65ed3d80-7907-11ea-819d-7b5b385ef678.jpeg" height="300em"/> <img src="https://user-images.githubusercontent.com/13546199/78726043-671e6a80-7907-11ea-87e7-cc28c58397ac.jpeg" height="300em"/> <img src="https://user-images.githubusercontent.com/13546199/78726167-b06eba00-7907-11ea-8342-9998510f6cb5.jpeg" height="300em"/> 
+img src="https://user-images.githubusercontent.com/13546199/78726167-b06eba00-7907-11ea-8342-9998510f6cb5.jpeg" height="500em"/><img src="https://user-images.githubusercontent.com/13546199/78726043-671e6a80-7907-11ea-87e7-cc28c58397ac.jpeg" height="500em"/><img src="https://user-images.githubusercontent.com/13546199/78726041-65ed3d80-7907-11ea-819d-7b5b385ef678.jpeg" height="500em"/> 
 
