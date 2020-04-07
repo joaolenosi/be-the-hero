@@ -43,3 +43,6 @@ Já trabalhei com os seguintes SGBD´s: SQL Server, Postgres, Oracle, Interbase,
 
 No momento estou aprendendo Node.js, React e React Native e esse é o meu primeiro projeto utilizando essa stack. Caso queiram entrar em contato: joaolenosi@gmail.com
 
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+
