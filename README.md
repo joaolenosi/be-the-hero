@@ -9,19 +9,12 @@ O projeto foi segmentado em 3 camadas:
 * Frontend: React, Axios
 * Mobile: React Native, Expo
 
-# <h2> Testes e Validações
+# <h2> Dependências de validações
 * Celebrate 
 * Jest
-* Frontend: 
-#     Backend <h2> tag
+# <h2> Dependências de testes
+* Supertest
 
-* Item 2
-  * Item 2a
-  * Item 2b
-## This is an <h2> tag
-###### This is an <h6> tag
-    
-#     Backend <h1> tag
 
 Structure with SQLite, RESTful API using Node.js.
 Frontend
