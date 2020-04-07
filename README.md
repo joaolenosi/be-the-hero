@@ -49,3 +49,9 @@ Já trabalhei com os seguintes SGBD´s: SQL Server, Postgres, Oracle, Interbase,
 
 No momento estou aprendendo Node.js, React e React Native e esse é o meu primeiro projeto utilizando essa stack. Caso queiram entrar em contato: joaolenosi@gmail.com
 
+# <h2> Imagens do Frontend
+  ![2](https://user-images.githubusercontent.com/13546199/78725467-ff1b5480-7905-11ea-932e-c7b9c4ce3a39.png)
+![3](https://user-images.githubusercontent.com/13546199/78725468-004c8180-7906-11ea-9c27-642f88e86778.png)
+![1](https://user-images.githubusercontent.com/13546199/78725470-00e51800-7906-11ea-80e7-d82bac602f74.png)
+
+
