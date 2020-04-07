@@ -5,16 +5,11 @@ O projeto tem como objetivo principal conectar **ONGs** a **pessoas** com inten�
 
 O projeto foi segmentado em 3 camadas:
 
-* Backend: Node.js, Express, cross-env, cors
-* Frontend: React, Axios
-* Mobile: React Native, Expo
-* Databse: SQLite, Knex
-
-# <h2> Dependências de validações
-* Celebrate 
-* Jest
-# <h2> Dependências de testes
-* Supertest   
+* **Backend**: Node.js, Express, cross-env, cors
+* **Frontend**: React, Axios
+* **Mobile**: React Native, Expo
+* **Databse**: SQLite, Knex
+* **Validações**: Celebrate, Jest  
 
 # <h2> Detalhes do backend
 Foi desenvolvida uma API RESTful usando Node.js, Express, e um módulo de segurança Cors. O Express é um framework Node, ele cria abstrações de rotas, middlewares e facilita a criaçao de API's. A API foi integrada com o banco de dados SQLite através do package Knex, que permite a criação de consultas e demais operações SQL utilizando o Query Builder, desta forma dando uma flexibilidade maior ao nosso projeto, caso seja necerrário migrar de banco de dados; 
