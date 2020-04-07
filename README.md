@@ -1,7 +1,8 @@
 # be-the-hero
 Desenvolvimento de uma aplicação completa na semana OmniStack11.
+O projeto tem como objetivo unir ONGs e pessoas com intenção de ajudar nas causas.
 
-Project created to "Semana OmniStack 11" for estudies on:
+As tecnologias abordadas durante o curso:
 
     Node.js, cross-env, Express (backend)
     SQLite, Knex (database)
