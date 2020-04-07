@@ -58,9 +58,9 @@ No momento estou aprendendo Node.js, React e React Native e esse é o meu primei
 ## Frontend
 React website where NGOs can signup and add cases that need help.
 
-<img src="images/screenshots/frontend-home.png" height="300em"/>
-<img src="images/screenshots/frontend-signup.png" height="300em"/>
-<img src="images/screenshots/frontend-cases.png" height="300em"/>
+<img src="https://user-images.githubusercontent.com/13546199/78725467-ff1b5480-7905-11ea-932e-c7b9c4ce3a39.png" height="300em"/>
+<img src="https://user-images.githubusercontent.com/13546199/78725468-004c8180-7906-11ea-9c27-642f88e86778.png" height="300em"/>
+<img src="https://user-images.githubusercontent.com/13546199/78725470-00e51800-7906-11ea-80e7-d82bac602f74.png" height="300em"/>
 
 ## Mobile
 Mobile app. Lists cases and "Heroes" can view them and help, messaging WhatsApp or send an e-mail.
