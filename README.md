@@ -1,24 +1,20 @@
 # be-the-hero
-Desenvolvimento de uma aplicação completa desenolvida na semana OmniStack11, ministrada por Diego Schell Fernandes - Co-founder & CTO - Rocketseat.
-O projeto tem como objetivo unir **ONGs** e **pessoas** com intenção de ajudar em causas nobres.
+O projeto **Be the Hero** foi desenolvido na semana OmniStack 11.0, ministrada por Diego Schell Fernandes - Co-founder & CTO - Rocketseat.
+O projeto tem como objetivo principal conectar **ONGs** a **pessoas** com intenção de ajudar em causas nobres.
+
 
 O projeto foi segmentado em 3 camadas:
 
-* Backend
-* Frontend
-* Mobile
+* Backend: Node.js, Express, cross-env, cors
+* Frontend: React, Axios
+* Mobile: React Native, Expo
 
+# <h2> Testes e Validações
+* Celebrate 
+* Jest
+* Frontend: 
 #     Backend <h2> tag
 
-As tecnologias abordadas durante o curso:
-
-    Node.js, cross-env, Express (backend)
-    SQLite, Knex (database)
-    React, Axios (frontend)
-    React Native, Expo (mobile)
-    Celebrate/Jest (validations)
-    Supertest (tests)
-* Item 1
 * Item 2
   * Item 2a
   * Item 2b
