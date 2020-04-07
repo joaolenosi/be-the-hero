@@ -55,5 +55,5 @@ No momento estou aprendendo Node.js, React e React Native e esse é o meu primei
 <img src="https://user-images.githubusercontent.com/13546199/78726408-4a366700-7908-11ea-95a5-3d067304b502.png" height="500em"/>
 
 ## Mobile
-<img src="https://user-images.githubusercontent.com/13546199/78726167-b06eba00-7907-11ea-8342-9998510f6cb5.jpeg" height="500em"/> <img src="https://user-images.githubusercontent.com/13546199/78726043-671e6a80-7907-11ea-87e7-cc28c58397ac.jpeg" height="500em"/> <img src="https://user-images.githubusercontent.com/13546199/78726041-65ed3d80-7907-11ea-819d-7b5b385ef678.jpeg" height="500em"/> 
+<img src="https://user-images.githubusercontent.com/13546199/78726167-b06eba00-7907-11ea-8342-9998510f6cb5.jpeg" height="500em"/>  <img src="https://user-images.githubusercontent.com/13546199/78726043-671e6a80-7907-11ea-87e7-cc28c58397ac.jpeg" height="500em"/>  <img src="https://user-images.githubusercontent.com/13546199/78726041-65ed3d80-7907-11ea-819d-7b5b385ef678.jpeg" height="500em"/> 
 
