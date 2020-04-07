@@ -10,7 +10,10 @@ As tecnologias abordadas durante o curso:
     React Native, Expo (mobile)
     Celebrate/Jest (validations)
     Supertest (tests)
-
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 ## This is an <h2> tag
 ###### This is an <h6> tag
     
