@@ -40,6 +40,8 @@ O App foi desenvolvido utilizando o Expo e o React Native em conjunto com o paco
 * O Usuário poderá ver todos os casos que precisam de ajuda.
 * O Usuário poderá entrar em contato com a ONG, através do whastapp ou e-mail.
   
+# <h2> Nota
+Boa parte do código possui comentários e abtrações minhas, para facilitar o entendimento de quem está começando a aprender essa stack.
 
 # <h2> Sobre o autor
 Olá, meu nome é: João leno, sou formado em Sistemas de Informação pela a Faculdade de Ciências e Tecnologia Mater Christi. Apaixonado por tecnologia e adoro desafios. Atualmente trabalho com desenvolvimento de software para automação comercial e aplicações web. Já programei em diversas linguagens de programaçao, entre elas: Java / Android, Object Pascal (Delphi), PHP, Javascript, Python e C.
