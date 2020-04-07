@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/13546199/78636383-9dfc6e00-787e-11ea-9194-84b3df341e31.png) width=100 
+![logo](https://user-images.githubusercontent.com/13546199/78636383-9dfc6e00-787e-11ea-9194-84b3df341e31.png width=100 ) 
 
 # be-the-hero
 O projeto **Be the Hero** foi desenolvido na semana OmniStack 11.0, ministrada por Diego Schell Fernandes - Co-founder & CTO - Rocketseat.
