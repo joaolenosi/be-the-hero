@@ -8,18 +8,9 @@ O projeto foi segmentado em 3 camadas:
 * Backend: Node.js, Express, cross-env, cors
 * Frontend: React, Axios
 * Mobile: React Native, Expo
+* Databse: SQLite, Knex
 
-# <h2> Backend
-*  Node.js 
-*  Express
-*  cross-env
-*  cors
-# <h2> Frontend
-*  React 
-*  Axios
-# <h2> Mobile
-*  React Native
-*  Expo
+
 
 # <h2> Database e Query Builder
 * SQLite, Knex 
